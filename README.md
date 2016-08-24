@@ -13,4 +13,6 @@ Simple tests to validate the getProducts, getShoppingCart, shoppingCartAdd and s
 * shoppingCartAdd should add a quantity of 5 units of product 0001 and return an amount of 2500.
 * shoppingCartRemove should add 1 product 0002 and remove it, returning an amount of 0.
 
-Just run RunTests as JUnit Test.
+Just run RunTests as JUnit Test or execute the following command line:
+
+./gradlew test
